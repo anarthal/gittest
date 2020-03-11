@@ -1,3 +1,3 @@
 
 if __name__ == '__main__':
-    print('hello mundo!')
+    print('adiosadios mundo cruel')
